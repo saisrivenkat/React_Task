@@ -1,0 +1,25 @@
+.add{
+    padding: 40px;
+    padding-top:10px
+}
+.add input{
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+}
+.add textarea{
+    width: 80%;
+    padding: 10px;
+    margin: 10px;
+    outline: none;
+}
+.add label{
+    padding-left: 10px;
+}
+.add_button{
+    width: 20%;
+    cursor: pointer;
+
+    padding-bottom: 100px;
+}

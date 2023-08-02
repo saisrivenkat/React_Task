@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:#032541 ;
+    color: white;
+    padding: 20px;
+}
+
+.sub_menu{
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+
+.user_login,.add_employee{
+    display: flex;
+    gap: 2px;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}

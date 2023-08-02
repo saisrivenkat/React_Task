@@ -1,0 +1,10 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: #032541;
+    width: 100%;
+}
+.footer h4{
+    text-align: center;
+    color: white;
+}
